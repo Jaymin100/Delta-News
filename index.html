@@ -761,6 +761,50 @@
     padding-bottom: 1px;
   }
 
+  /* ===== PAST EVENTS ===== */
+  .past-events-section {
+    background: var(--white);
+    padding: 3rem 0;
+  }
+
+  .past-events-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+
+  .past-event {
+    background: var(--off-white);
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid var(--rule);
+  }
+
+  .past-event img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .past-event-content {
+    padding: 1.5rem;
+  }
+
+  .past-event-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--ink);
+    margin-bottom: 0.5rem;
+  }
+
+  .past-event-text {
+    font-size: 16px;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
   /* ===== ALUMNI ===== */
   .alumni-section {
     background: var(--gold-pale);
@@ -1062,6 +1106,7 @@
     .events-grid { grid-template-columns: 1fr; }
     .alumni-grid { grid-template-columns: 1fr; }
     .alumni-featured { grid-column: 1; grid-template-columns: 1fr; }
+    .past-events-grid { grid-template-columns: 1fr; }
     .updates-grid { grid-template-columns: 1fr; }
     .footer-inner { flex-direction: column; gap: 1.5rem; text-align: center; }
     .footer-right { text-align: center; }
@@ -1314,6 +1359,37 @@
           <div class="event-name">End of the Semester</div>
           <p class="event-desc">Classes end on May 14th. Over the summer, the actives go to the Apple River for tubing. We have also had alumni in the area join us for the day. We have also been doing Pork and Ponies with actives and alumni over the summer. More info on these soon!</p>
 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== PAST EVENTS ===== -->
+<div class="past-events-section">
+  <div class="container">
+    <div class="section-rule">
+      <div class="rule-line"></div>
+      <div class="section-label">Past Events</div>
+      <div class="rule-line"></div>
+    </div>
+    <h2 class="section-heading">Events</h2>
+    <p class="section-intro">Highlights from some of the awesome events our chapter hosted this year.</p>
+
+    <div class="past-events-grid">
+      <div class="past-event">
+        <img src="IMG_7492.jpg" alt="">
+        <div class="past-event-content">
+          <div class="past-event-title">Deltapalooza</div>
+          <p class="past-event-text">This is the first real basement show we have had as a chapter. It was a great success we ended up selling 67 tickets at 5$ and rasied over 300$ for the chapter. we had 3 bands and some individuals who performed on Friday and Saturday night. It was such an fun amazing night. This was setup by our current president Holden CD Richardson, as well as Nash Foster Phoneix.</p>
+        </div>
+      </div>
+
+      <div class="past-event">
+        <img src="IMG_7504.JPG" alt="">
+        <div class="past-event-content">
+          <div class="past-event-title">Chili Fest</div>
+          <p class="past-event-text">This was also the first time we did a chili cook off as a fundraiser! This was put on by our actives. We didn't end up rasing money due to sunk cost but it was still a super fun event with the brothers and friends of delta!</p>
         </div>
       </div>
     </div>

@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Delta Sigma Phi — The Knot | Spring 2025</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Josefin+Sans:wght@300;400;600&display=swap" rel="stylesheet">
+<style>
+  /* Reset */
+  body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+  img { -ms-interpolation-mode: bicubic; border: 0; outline: none; text-decoration: none; }
+  body { margin: 0 !important; padding: 0 !important; background-color: #F4F1EA; }
+  * { box-sizing: border-box; }
+
+  /* Mobile overrides */
+  @media screen and (max-width: 600px) {
+    .email-container { width: 100% !important; }
+    .mobile-padding { padding-left: 20px !important; padding-right: 20px !important; }
+    .mobile-center { text-align: center !important; }
+    .stat-cell { width: 33% !important; display: inline-block !important; }
+    .hide-mobile { display: none !important; }
+    .pledge-card { width: 100% !important; display: block !important; margin-bottom: 20px !important; }
+    .alumni-card-cell { width: 100% !important; display: block !important; }
+    h1.masthead-title { font-size: 52px !important; }
+  }
+</style>
+</head>
+<body style="margin:0; padding:0; background-color:#F4F1EA; font-family:Georgia, 'Times New Roman', serif;">
+
+<!-- Email wrapper -->
+<table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#F4F1EA;">
+<tr><td align="center" style="padding: 20px 10px;">
+
+<!-- Main container -->
+<table role="presentation" class="email-container" width="600" cellspacing="0" cellpadding="0" border="0" style="margin:0 auto; max-width:600px;">
+
+
+<!-- ===== MASTHEAD ===== -->
+<tr><td>
+  <!-- Gold top bar -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr><td style="height:6px; background-color:#C89A2A; font-size:1px; line-height:1px;">&nbsp;</td></tr>
+  </table>
+
+  <!-- Masthead body -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#1B4D2E;">
+  <tr>
+    <td align="center" style="padding: 28px 24px 0;">
+      <p style="margin:0 0 6px; font-family:'Josefin Sans', Arial, sans-serif; font-size:13px; letter-spacing:0.3em; color:#E0B845; text-transform:uppercase;">Δ &nbsp;Σ &nbsp;Φ</p>
+      <h1 class="masthead-title" style="margin:0; font-family:'Playfair Display', Georgia, serif; font-size:72px; font-weight:900; color:#FAFAF8; letter-spacing:-0.01em; line-height:1;">The Knot</h1>
+      <p style="margin:8px 0 0; font-family:Georgia, serif; font-style:italic; font-size:17px; color:rgba(255,255,255,0.7); letter-spacing:0.05em;">The Newsletter of Zeta Xi</p>
+      <p style="margin:6px 0 0; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.15em; text-transform:uppercase; color:rgba(255,255,255,0.5);">Spring Edition 1 of 3 &nbsp;·&nbsp; 2025</p>
+    </td>
+  </tr>
+  <!-- Hero quote block -->
+  <tr>
+    <td style="padding: 24px 24px 28px;">
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-left:3px solid #C89A2A;">
+      <tr>
+        <td style="padding: 14px 18px;">
+          <p style="margin:0 0 8px; font-family:'Playfair Display', Georgia, serif; font-style:italic; font-size:16px; color:#FAFAF8; line-height:1.6;">"Why is this named The Knot? The Gordian knot is a symbol of brotherhood and friendship. It reminds us that we are all connected, and the name of this newsletter is a testament to that. This is one of three editions that will be made before my graduation."</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.15em; text-transform:uppercase; color:#E0B845;">— Jaymin Swedlund</p>
+        </td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Color bar -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td width="33%" style="height:8px; background-color:#4A2D6B; font-size:1px; line-height:1px;">&nbsp;</td>
+    <td width="34%" style="height:8px; background-color:#C89A2A; font-size:1px; line-height:1px;">&nbsp;</td>
+    <td width="33%" style="height:8px; background-color:#2E6B45; font-size:1px; line-height:1px;">&nbsp;</td>
+  </tr>
+  </table>
+</td></tr>
+
+
+<!-- ===== FROM THE PRESIDENT ===== -->
+<tr><td style="background-color:#FFFFFF; padding: 32px 24px;">
+
+  <!-- Section label -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:20px;">
+  <tr>
+    <td style="border-top:1px solid #D4C9A8; padding-top:12px;">
+      <p style="margin:0; text-align:center; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#1B4D2E; border:1px solid #1B4D2E; border-radius:2px; display:inline-block; padding:4px 12px;">From the President's Desk</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Stats row -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:24px; background-color:#F4F1EA; border-radius:4px;">
+  <tr>
+    <td width="33%" align="center" style="padding:16px 8px; border-right:1px solid #D4C9A8;">
+      <p style="margin:0; font-family:'Playfair Display', Georgia, serif; font-size:32px; font-weight:700; color:#4A2D6B; line-height:1;">13</p>
+      <p style="margin:4px 0 0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#5A5A5A;">Active Brothers</p>
+    </td>
+    <td width="34%" align="center" style="padding:16px 8px; border-right:1px solid #D4C9A8;">
+      <p style="margin:0; font-family:'Playfair Display', Georgia, serif; font-size:32px; font-weight:700; color:#4A2D6B; line-height:1;">3</p>
+      <p style="margin:4px 0 0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#5A5A5A;">New Pledges</p>
+    </td>
+    <td width="33%" align="center" style="padding:16px 8px;">
+      <p style="margin:0; font-family:'Playfair Display', Georgia, serif; font-size:32px; font-weight:700; color:#4A2D6B; line-height:1;">380+</p>
+      <p style="margin:4px 0 0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#5A5A5A;">Alumni Network</p>
+    </td>
+  </tr>
+  </table>
+
+  <h2 style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#1B4D2E; line-height:1.15;">A Message from the Chapter</h2>
+  <p style="margin:0 0 20px; font-family:Georgia, serif; font-style:italic; font-size:17px; color:#5A5A5A;">Zeta Xi alumni, welcome to the first edition of The Knot.</p>
+
+  <p style="margin:0 0 16px; font-family:Georgia, serif; font-size:16px; line-height:1.8; color:#1A1A1A;">Spring has been an exciting and rewarding semester for our chapter. We welcomed a pledge class of three outstanding new members and have continued strengthening our relationships with the sororities on campus. One highlight of the semester was hosting a successful basement show at our house, made possible through the dedication and leadership of our president, Holden. The energy within the chapter has been incredible. Every passing week lately has been feeling better than the last.</p>
+
+  <p style="margin:0 0 16px; font-family:Georgia, serif; font-size:16px; line-height:1.8; color:#1A1A1A;">The success we are experiencing this semester builds on an already remarkable year for our chapter. Last semester, we were honored to receive <strong>Chapter of the Year</strong>, recognizing the collective effort and commitment of our members. In addition, our organization earned <strong>Philanthropy of the Year</strong> for the fourth consecutive year, a testament to the passion and consistency our members bring to serving the community. Our previous president also won <strong>Greek Man of the Year</strong>.</p>
+
+  <p style="margin:0 0 16px; font-family:Georgia, serif; font-size:16px; line-height:1.8; color:#1A1A1A;">We are incredibly grateful for the support and involvement of our alumni and always enjoy the opportunity to reconnect. Our Spring Formal will take place on <strong>April 18th at The Red Carpet</strong>, and we would love to see even more of you there. Tickets are $30. Spring is a season of renewal, and we truly feel our chapter continuing to blossom as we look ahead to an even brighter future together.</p>
+
+  <p style="margin:0 0 20px; font-family:Georgia, serif; font-size:16px; line-height:1.8; color:#1A1A1A;">As always — <em>YITBOS.</em></p>
+
+  <p style="margin:0 2px; font-family:Georgia, serif; font-style:italic; font-size:20px; color:#1B4D2E;">Jaymin Swedlund</p>
+  <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:#5A5A5A;">Sergeant at Arms, Fall 2023</p>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== ACTIVE SPOTLIGHT ===== -->
+<tr><td style="background-color:#F0EAFB; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; text-align:center; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#4A2D6B; border:1px solid #4A2D6B; border-radius:2px; display:inline-block; padding:4px 12px;">Active Spotlight</p>
+  <h2 style="margin:8px 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#4A2D6B; line-height:1.15;">Brothers in Focus</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:17px; color:#5A5A5A;">Recognizing brothers who exemplify the ideals of Delta Sigma Phi.</p>
+
+  <!-- Active 1 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-radius:4px; border-left:4px solid #4A2D6B; margin-bottom:20px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <p style="margin:0 0 8px; display:inline-block; background-color:#4A2D6B; color:#FAFAF8; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.15em; text-transform:uppercase; padding:3px 10px; border-radius:2px;">Greek Man of the Year</p>
+      <p style="margin:0 0 4px; font-family:'Playfair Display', Georgia, serif; font-size:22px; font-weight:700; color:#1A1A1A; line-height:1.1;">Jaymin "Wendigo" Swedlund</p>
+      <p style="margin:0 0 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Pledge Class: Fall 2023 · Year: Junior</p>
+      <p style="margin:0 0 12px; font-family:Georgia, serif; font-size:15px; line-height:1.7; color:#5A5A5A;">Jaymin has been a cornerstone of the chapter over the last year. He stepped up as president in fall 2025, won Greek Man of the Year, and hosted that year's Shave for the Cure. He was selected out of 50 Delta members to be sent to Seattle for a career accelerator program by nationals. Outside of fraternity life, he works at SCSU's System Office as a software engineering intern and will be working at Tactile Medical this summer as a SWE. He is also an active member of the Judo, CSCI, and competitive programming teams. Also, he's 6'10".</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-left:3px solid #4A2D6B; background-color:#F0EAFB;">
+      <tr><td style="padding:10px 14px; font-family:Georgia, serif; font-style:italic; font-size:14px; color:#4A2D6B;">"Brotherhood isn't just something you put on a resume, but you totally should."</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Active 2 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-radius:4px; border-left:4px solid #1B4D2E; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <p style="margin:0 0 8px; display:inline-block; background-color:#1B4D2E; color:#FAFAF8; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.15em; text-transform:uppercase; padding:3px 10px; border-radius:2px;">Best Board Position Development</p>
+      <p style="margin:0 0 4px; font-family:'Playfair Display', Georgia, serif; font-size:22px; font-weight:700; color:#1A1A1A; line-height:1.1;">Sean "Jar Jar" Kelly</p>
+      <p style="margin:0 0 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Pledge Class: Holy Unc · Year: Second Victory Lap</p>
+      <p style="margin:0 0 12px; font-family:Georgia, serif; font-size:15px; line-height:1.7; color:#5A5A5A;">Sean has been a member of the chapter for many years. His role as pledge educator has been incredible to watch — he has revamped every slideshow using his graphic design background and made a commitment to making sure pledges know their stuff. He also designed our rush banner, makes most of our party flyers, serves as secretary of the Artists Student Union, and has been featured in multiple art shows.</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-left:3px solid #1B4D2E; background-color:#EAF3E1;">
+      <tr><td style="padding:10px 14px; font-family:Georgia, serif; font-style:italic; font-size:14px; color:#1B4D2E;">"Time flies like an arrow, fruit flies like a banana."</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== NEW PLEDGES ===== -->
+<tr><td style="background-color:#FFFFFF; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; text-align:center; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#1B4D2E; border:1px solid #1B4D2E; border-radius:2px; display:inline-block; padding:4px 12px;">Spring 2025</p>
+
+  <!-- Pledge hero banner -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin:16px 0 20px; border-radius:4px; overflow:hidden; background: linear-gradient(160deg, #1B4D2E 0%, #2E6B45 50%, #C89A2A 100%);">
+  <tr>
+    <td align="center" style="padding: 28px 20px;">
+      <p style="margin:0 0 8px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.25em; text-transform:uppercase; color:#E0B845;">Welcome to the Brotherhood</p>
+      <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#FAFAF8; line-height:1.2;">Spring 2025<br>Pledge Class</p>
+      <p style="margin:0; font-family:Georgia, serif; font-style:italic; font-size:16px; color:rgba(255,255,255,0.75);">Tears of joy at the birth of three brothers!</p>
+    </td>
+  </tr>
+  </table>
+
+  <h2 style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:26px; font-weight:700; color:#1B4D2E; line-height:1.2; text-align:center;">Meet Our New Pledges</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#5A5A5A; text-align:center;">Zeta Xi is proud to introduce the Spring 2025 pledge class. Welcome, gentlemen!</p>
+
+  <!-- Pledge cards: stacked for mobile -->
+  <!-- Aven -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#EAF3E1; border-radius:8px; border-top:4px solid #1B4D2E; margin-bottom:16px; overflow:hidden;">
+  <tr>
+    <td align="center" style="padding: 24px 20px;">
+      <div style="width:80px; height:80px; border-radius:50%; background-color:#1B4D2E; margin:0 auto 12px; display:flex; align-items:center; justify-content:center; font-family:'Playfair Display',Georgia,serif; font-size:28px; font-weight:700; color:#FAFAF8; line-height:80px; text-align:center;">AP</div>
+      <p style="margin:0 0 4px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A;">Aven "Cuckoo" Prigge</p>
+      <p style="margin:0; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#1B4D2E;">Meteorology</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- James -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#EAF3E1; border-radius:8px; border-top:4px solid #1B4D2E; margin-bottom:16px; overflow:hidden;">
+  <tr>
+    <td align="center" style="padding: 24px 20px;">
+      <div style="width:80px; height:80px; border-radius:50%; background-color:#1B4D2E; margin:0 auto 12px; line-height:80px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:28px; font-weight:700; color:#FAFAF8;">JS</div>
+      <p style="margin:0 0 4px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A;">James "Meatball" Smith</p>
+      <p style="margin:0; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#1B4D2E;">Construction Management</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Elijah -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#EAF3E1; border-radius:8px; border-top:4px solid #1B4D2E; overflow:hidden;">
+  <tr>
+    <td align="center" style="padding: 24px 20px;">
+      <div style="width:80px; height:80px; border-radius:50%; background-color:#1B4D2E; margin:0 auto 12px; line-height:80px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:28px; font-weight:700; color:#FAFAF8;">EW</div>
+      <p style="margin:0 0 4px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A;">Elijah "Norwood" Weekes</p>
+      <p style="margin:0; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#1B4D2E;">Electrical Engineering</p>
+    </td>
+  </tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== EVENTS ===== -->
+<tr><td style="background-color:#1A1A1A; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#E0B845; border:1px solid #E0B845; border-radius:2px; display:inline-block; padding:4px 12px;">Chapter Events</p>
+  <h2 style="margin:8px 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#E0B845; line-height:1.15;">Events &amp; Brotherhood</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:16px; color:rgba(255,255,255,0.55);">A look at what's to come for the chapter.</p>
+
+  <!-- Event 1: Initiation Week -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid rgba(255,255,255,0.12); margin-bottom:20px; padding-bottom:20px;">
+  <tr>
+    <td>
+      <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#E0B845;">April 14th – 17th</p>
+      <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#FAFAF8; line-height:1.2;">Initiation Week</p>
+      <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:rgba(255,255,255,0.6); line-height:1.65;">A series of events designed to help pledges get to know the chapter's history and alumni — a week focused on bonding and brotherhood.</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Event 2: Formal -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid rgba(255,255,255,0.12); margin-bottom:20px; padding-bottom:20px;">
+  <tr>
+    <td>
+      <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#E0B845;">April 18th</p>
+      <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#FAFAF8; line-height:1.2;">Delta Sigma Phi Spring Formal</p>
+      <p style="margin:0 0 12px; font-family:Georgia, serif; font-size:15px; color:rgba(255,255,255,0.6); line-height:1.65;">Delta is celebrating its 48th anniversary, hosted at the Red Carpet. Tickets are $30. All alumni, friends, and family are welcome. The event runs from 6–9 PM; before that, we'll be at the house from 4–6 PM for a bonfire and house tour for any interested alumni.</p>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfsBdBHQCV689lXmzptnDbuO9fh2f0wMCc1nsa_fbS7PhD-vw/viewform?usp=header" style="display:inline-block; background-color:#C89A2A; color:#FAFAF8; font-family:'Josefin Sans', Arial, sans-serif; font-size:12px; letter-spacing:0.15em; text-transform:uppercase; text-decoration:none; padding:10px 20px; border-radius:2px;">RSVP Now →</a>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Event 3: Nile Cup -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid rgba(255,255,255,0.12); margin-bottom:20px; padding-bottom:20px;">
+  <tr>
+    <td>
+      <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#E0B845;">Upcoming</p>
+      <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#FAFAF8; line-height:1.2;">The Nile Cup 2025</p>
+      <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:rgba(255,255,255,0.6); line-height:1.65;">Our annual alumni-active golf tournament. More details coming soon. Organized by Charlie Frank and Shane Vossen.</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Event 4: End of Semester -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td>
+      <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#E0B845;">Somewhere in the summer</p>
+      <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#FAFAF8; line-height:1.2;">End of the Semester</p>
+      <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:rgba(255,255,255,0.6); line-height:1.65;">Classes end May 14th. Over the summer, the actives go to the Apple River for tubing, and we've had alumni in the area join us. We have also been doing Pork and Ponies with actives and alumni. More info on these soon!</p>
+    </td>
+  </tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== PAST EVENTS ===== -->
+<tr><td style="background-color:#FFFFFF; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#C89A2A; border:1px solid #C89A2A; border-radius:2px; display:inline-block; padding:4px 12px;">Past Events</p>
+  <h2 style="margin:8px 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#8B6A10; line-height:1.15;">Past Events</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#5A5A5A;">Highlights from some of the awesome events our chapter hosted earlier this year.</p>
+
+  <!-- Deltapalooza -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; box-shadow:0 2px 12px rgba(27,77,46,0.08); margin-bottom:20px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <p style="margin:0 0 8px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A;">Deltapalooza</p>
+      <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.6;">This was the first real basement show we had as a chapter. We sold 67 tickets at $5 and raised over $300 for the chapter. We had 3 bands and some individuals who performed on Friday and Saturday night. It was an amazing night, set up by president Holden "CD" Richardson and Nash Foster Phoenix.</p>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Chili Fest -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; box-shadow:0 2px 12px rgba(27,77,46,0.08); overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <p style="margin:0 0 8px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A;">Chili Fest</p>
+      <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.6;">This was also the first time we did a chili cook-off as a fundraiser! Put on by our actives — it was a super fun event with the brothers and friends of Delta!</p>
+    </td>
+  </tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== ALUMNI SHOUT-OUTS ===== -->
+<tr><td style="background-color:#FDF6E3; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#C89A2A; border:1px solid #C89A2A; border-radius:2px; display:inline-block; padding:4px 12px;">Alumni Network</p>
+  <h2 style="margin:8px 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#8B6A10; line-height:1.15;">Alumni Shout-Outs</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#5A5A5A;">Our alumni are what set us apart. Let's look at outstanding alumni who supported our chapter this year.</p>
+
+  <!-- Featured: Terry Hollerbach -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#1B4D2E; border-top:4px solid #C89A2A; border-radius:4px; margin-bottom:20px; overflow:hidden;">
+  <tr>
+    <td style="padding:24px;">
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:16px;">
+      <tr>
+        <td width="64" valign="top">
+          <div style="width:56px; height:56px; border-radius:50%; background-color:rgba(255,255,255,0.15); line-height:56px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:18px; font-weight:700; color:#FAFAF8;">TH</div>
+        </td>
+        <td valign="top" style="padding-left:14px;">
+          <p style="margin:0 0 2px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#FAFAF8; line-height:1.2;">Terry Hollerbach</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:#E0B845;">Fall 1980</p>
+        </td>
+      </tr>
+      </table>
+      <p style="margin:0 0 14px; font-family:Georgia, serif; font-style:italic; font-size:15px; color:rgba(255,255,255,0.8); line-height:1.7;">Terry donated $2,000 from the Thomas Richard Hollerbach Scholarship — a scholarship he created after the passing of his father, donating 20% of his inheritance to good organizations. Terry was only an active member for one semester but had so many stories to tell. Even after 46 years he still thinks about us and supports our chapter.</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:rgba(200,154,42,0.2); border-left:3px solid #E0B845;">
+      <tr><td style="padding:8px 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:12px; letter-spacing:0.08em; color:#E0B845; text-transform:uppercase;">⭐ Alumni of the Semester</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Steve Poons -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:12px;">
+      <tr>
+        <td width="56" valign="top">
+          <div style="width:44px; height:44px; border-radius:50%; background-color:#C89A2A; line-height:44px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:15px; font-weight:700; color:#FAFAF8;">SP</div>
+        </td>
+        <td valign="top" style="padding-left:12px;">
+          <p style="margin:0 0 2px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#1A1A1A; line-height:1.2;">Steve "Gump" Poons</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Pledge Class: Fall 2006</p>
+        </td>
+      </tr>
+      </table>
+      <p style="margin:0 0 10px; font-family:Georgia, serif; font-style:italic; font-size:15px; color:#5A5A5A; line-height:1.65;">Steve is our new ACB president and has always stayed in close contact with the brotherhood. He has come to the house on multiple occasions, attended baseball, dropped off supplies, and produced our rush banner.</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FDF6E3; border-left:3px solid #C89A2A;">
+      <tr><td style="padding:8px 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.07em; color:#7A5C10;">Congrats on President Steve! Many thanks for your care for our chapter!</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Charlie Frank -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:12px;">
+      <tr>
+        <td width="56" valign="top">
+          <div style="width:44px; height:44px; border-radius:50%; background-color:#C89A2A; line-height:44px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:15px; font-weight:700; color:#FAFAF8;">CF</div>
+        </td>
+        <td valign="top" style="padding-left:12px;">
+          <p style="margin:0 0 2px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#1A1A1A; line-height:1.2;">Charlie "Ballpark" Frank</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Pledge Class: Fall 2008</p>
+        </td>
+      </tr>
+      </table>
+      <p style="margin:0 0 10px; font-family:Georgia, serif; font-style:italic; font-size:15px; color:#5A5A5A; line-height:1.65;">Charles is a long-time supporter and our current Active Alumni Chair. He played a huge role in setting up the Nile Cup and Pork and Ponies, and really sets up most of the active alumni events. We've seen him around the house a few times!</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FDF6E3; border-left:3px solid #C89A2A;">
+      <tr><td style="padding:8px 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.07em; color:#7A5C10;">Thank you for all of your support and guidance, Ballpark!</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Shane Vossen -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:12px;">
+      <tr>
+        <td width="56" valign="top">
+          <div style="width:44px; height:44px; border-radius:50%; background-color:#C89A2A; line-height:44px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:15px; font-weight:700; color:#FAFAF8;">SV</div>
+        </td>
+        <td valign="top" style="padding-left:12px;">
+          <p style="margin:0 0 2px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#1A1A1A; line-height:1.2;">Shane Vossen</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Pledge Class: Fall 1992</p>
+        </td>
+      </tr>
+      </table>
+      <p style="margin:0 0 10px; font-family:Georgia, serif; font-style:italic; font-size:15px; color:#5A5A5A; line-height:1.65;">Shane has been our treasurer and helped set up fundraising for us. Without him, the scholarships we hand out at formal would be impossible. He also played one of the biggest roles in setting up our Nile Cup Tournament.</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FDF6E3; border-left:3px solid #C89A2A;">
+      <tr><td style="padding:8px 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.07em; color:#7A5C10;">Thank you for your continued support, Shane!</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+  <!-- Keane Bjorkman -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FFFFFF; border-top:4px solid #C89A2A; border-radius:4px; overflow:hidden;">
+  <tr>
+    <td style="padding:20px;">
+      <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:12px;">
+      <tr>
+        <td width="56" valign="top">
+          <div style="width:44px; height:44px; border-radius:50%; background-color:#C89A2A; line-height:44px; text-align:center; font-family:'Playfair Display',Georgia,serif; font-size:15px; font-weight:700; color:#FAFAF8;">KB</div>
+        </td>
+        <td valign="top" style="padding-left:12px;">
+          <p style="margin:0 0 2px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#1A1A1A; line-height:1.2;">Keane Bjorkman</p>
+          <p style="margin:0; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; color:#C89A2A;">Alumni</p>
+        </td>
+      </tr>
+      </table>
+      <p style="margin:0 0 10px; font-family:Georgia, serif; font-style:italic; font-size:15px; color:#5A5A5A; line-height:1.65;">Although not an ACB member, Keane has still made appearances at the house and events. He attended our House of Pizza Super Bowl party, spent a day with us on our camping trip, and drove about three hours to drop off firewood that has lasted us almost a year.</p>
+      <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#FDF6E3; border-left:3px solid #C89A2A;">
+      <tr><td style="padding:8px 12px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.07em; color:#7A5C10;">Thank you for always supporting us, Keane!</td></tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== NEWS & UPDATES ===== -->
+<tr><td style="background-color:#FFFFFF; padding: 32px 24px;">
+
+  <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.25em; text-transform:uppercase; color:#1B4D2E; border:1px solid #1B4D2E; border-radius:2px; display:inline-block; padding:4px 12px;">Chapter Updates</p>
+  <h2 style="margin:8px 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:28px; font-weight:700; color:#1B4D2E; line-height:1.15;">News &amp; Announcements</h2>
+  <p style="margin:0 0 24px; font-family:Georgia, serif; font-style:italic; font-size:16px; color:#5A5A5A;">Keeping every brother — active and alumni — up to speed on chapter life.</p>
+
+  <!-- Update 1 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid #D4C9A8; margin-bottom:20px; padding-bottom:20px;">
+  <tr><td>
+    <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#4A2D6B;">Fraternal Excellence</p>
+    <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A; line-height:1.25;">Greek Awards Sweep!</p>
+    <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.7;">Zeta Xi took home the most and top awards! We brought home Philanthropy of the Year, Chapter of the Year, and Greek Man of the Year.</p>
+  </td></tr>
+  </table>
+
+  <!-- Update 2 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid #D4C9A8; margin-bottom:20px; padding-bottom:20px;">
+  <tr><td>
+    <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#4A2D6B;">Chapter House</p>
+    <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A; line-height:1.25;">House Renovations</p>
+    <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.7;">The Delta House just received a new fire pit thanks to Bill Henke, along with a large amount of cleaning supplies from our ACB. One of our actives is planning to rework our basement with a new lighting system for parties.</p>
+  </td></tr>
+  </table>
+
+  <!-- Update 3 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="border-bottom:1px solid #D4C9A8; margin-bottom:20px; padding-bottom:20px;">
+  <tr><td>
+    <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#4A2D6B;">Philanthropy</p>
+    <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A; line-height:1.25;">Shave for the Cure — $2,003 Raised!</p>
+    <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.7;">Our chapter has been shaving our heads for 14 years, and for the first time we were featured in The Chronicle. This year we volunteered at the food pantry, completed our pond cleanup, and supported other Greek life philanthropies on campus.</p>
+  </td></tr>
+  </table>
+
+  <!-- Update 4 -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="margin-bottom:28px;">
+  <tr><td>
+    <p style="margin:0 0 4px; font-family:'Josefin Sans', Arial, sans-serif; font-size:10px; letter-spacing:0.2em; text-transform:uppercase; color:#4A2D6B;">ACB Elections</p>
+    <p style="margin:0 0 6px; font-family:'Playfair Display', Georgia, serif; font-size:20px; font-weight:700; color:#1A1A1A; line-height:1.25;">There Is Still Time to Run for ACB Positions!</p>
+    <p style="margin:0; font-family:Georgia, serif; font-size:15px; color:#5A5A5A; line-height:1.7;">For those interested in VP, Secretary, or Chapter Advisor positions, please reach out to the chapter email. Elections will be held virtually on April 14th. We would love to see some new faces!</p>
+  </td></tr>
+  </table>
+
+  <!-- Special Thanks sidebar box -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#F0EAFB; border-top:4px solid #4A2D6B; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <tr><td style="padding:20px;">
+    <p style="margin:0 0 14px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#4A2D6B;">Special Thanks</p>
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Tanner Rank</strong> — Previous ACB President</td></tr>
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Dan Kitrell</strong> — Active FB poster and donor</td></tr>
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Matthew Schafer</strong> — Active donor</td></tr>
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Matt Konz</strong> — Active donor</td></tr>
+      <tr><td style="padding:8px 0; font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Davis Houghton</strong> — Active donor</td></tr>
+    </table>
+  </td></tr>
+  </table>
+
+  <!-- Upcoming Dates -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#F0EAFB; border-top:4px solid #4A2D6B; border-radius:4px; margin-bottom:16px; overflow:hidden;">
+  <tr><td style="padding:20px;">
+    <p style="margin:0 0 14px; font-family:'Playfair Display', Georgia, serif; font-size:18px; font-weight:700; color:#4A2D6B;">Upcoming Dates</p>
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Apr 14</strong> — ACB Elections</td></tr>
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Apr 14–17</strong> — Initiation Week</td></tr>
+      <tr><td style="padding:8px 0; border-bottom:1px solid rgba(74,45,107,0.12); font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>Apr 18</strong> — Formal and House Showing</td></tr>
+      <tr><td style="padding:8px 0; font-family:Georgia, serif; font-size:15px; color:#1A1A1A; line-height:1.5;"><strong>May 14</strong> — End of the Semester</td></tr>
+    </table>
+  </td></tr>
+  </table>
+
+  <!-- YITBOS box -->
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#1B4D2E; border-radius:4px; overflow:hidden;">
+  <tr><td align="center" style="padding:24px 20px;">
+    <p style="margin:0 0 12px; font-family:Georgia, serif; font-style:italic; font-size:17px; color:rgba(255,255,255,0.85); line-height:1.5;">"Every active has a role to play. Every alumni member has a story to tell. We are all united by our brotherhood."</p>
+    <p style="margin:0; font-family:'Playfair Display', Georgia, serif; font-size:22px; font-weight:700; color:#E0B845;">YITBOS</p>
+  </td></tr>
+  </table>
+
+</td></tr>
+
+
+<!-- Section divider -->
+<tr><td style="height:8px; background-color:#F4F1EA;"></td></tr>
+
+
+<!-- ===== FOOTER ===== -->
+<tr><td style="background-color:#1A1A1A; padding: 28px 24px;">
+  <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center">
+      <p style="margin:0 0 8px; font-family:'Playfair Display', Georgia, serif; font-size:26px; font-weight:900; color:#FAFAF8; letter-spacing:0.05em;">Δ<span style="color:#E0B845;">Σ</span>Φ</p>
+      <p style="margin:0 2px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:rgba(255,255,255,0.4); line-height:1.8;">The Knot — Official Newsletter of Zeta Xi Chapter</p>
+      <p style="margin:0 2px; font-family:'Josefin Sans', Arial, sans-serif; font-size:11px; letter-spacing:0.12em; text-transform:uppercase; color:rgba(255,255,255,0.4); line-height:1.8;">Delta Sigma Phi Fraternity · Spring 2025 Edition</p>
+      <p style="margin:10px 0 0; font-family:Georgia, serif; font-style:italic; font-size:15px; color:rgba(255,255,255,0.5);">"Better Men, Better Lives."</p>
+    </td>
+  </tr>
+  </table>
+</td></tr>
+
+<!-- Bottom color bar -->
+<tr>
+  <td>
+    <table role="presentation" width="100%" cellspacing="0" cellpadding="0" border="0">
+    <tr>
+      <td width="25%" style="height:4px; background-color:#1B4D2E; font-size:1px; line-height:1px;">&nbsp;</td>
+      <td width="25%" style="height:4px; background-color:#4A2D6B; font-size:1px; line-height:1px;">&nbsp;</td>
+      <td width="25%" style="height:4px; background-color:#C89A2A; font-size:1px; line-height:1px;">&nbsp;</td>
+      <td width="25%" style="height:4px; background-color:#FAFAF8; font-size:1px; line-height:1px;">&nbsp;</td>
+    </tr>
+    </table>
+  </td>
+</tr>
+
+
+</table>
+<!-- /Main container -->
+
+</td></tr>
+</table>
+<!-- /Email wrapper -->
+
+</body>
+</html>
